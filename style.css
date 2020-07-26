@@ -171,7 +171,7 @@ header .items .item {
 header .items .item-light {background-color: rgba(233, 129, 69, 0.7);}
 header .item .item-icon .fa{
     font-size: 30px;
-    padding: 7px;
+    padding: 12px;
     border: 1px solid white;
     border-radius: 100%;
     margin-right: 20px;
