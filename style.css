@@ -326,7 +326,7 @@ header .item .item-desc button {
     grid-template-columns: 1fr 1fr;
     grid-gap: 1rem;
     background-color: rgb(246, 101, 43);
-    padding: 50px 30px;
+    padding: 50px 20px;
 }
 #gallery .desc p {
     font-size: 25px;
