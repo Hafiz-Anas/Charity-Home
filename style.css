@@ -247,6 +247,7 @@ header .item .item-desc button {
 #causes .item-desc button {
     margin: 5px 0px 15px 0px;
     border: 0;
+    outline: none;
     cursor: pointer;
     background-color: rgb(255, 78, 55);
     color: white;
